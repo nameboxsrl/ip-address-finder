@@ -36,3 +36,4 @@ This script was created by **Precup Vasile**, CEO at [NameBox](https://www.nameb
 ## Copyright and License
 
 The code is released under the [MIT License](https://opensource.org/licenses/MIT).
+
