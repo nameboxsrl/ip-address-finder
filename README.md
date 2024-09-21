@@ -24,7 +24,7 @@ You can customize the design and behavior by editing the HTML and JavaScript in 
 
 ## Bugs and Issues
 
-If you encounter any bugs or issues with this script, feel free to [open an issue](https://github.com/yourusername/repo-name/issues) here on GitHub.
+If you encounter any bugs or issues with this script, feel free to [open an issue](https://github.com/nameboxsrl/ip-address-finder/issues) here on GitHub.
 
 ## Creator
 
